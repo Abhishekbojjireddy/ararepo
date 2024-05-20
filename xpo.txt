@@ -1,6 +1,4 @@
 print(10);
-<<<<<<< HEAD
 print("buddy");
-=======
 print("suddy");
->>>>>>> e1ddc98e513bf01289ebbd6abc333a8b1144cebf
+
